@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Horror Unity3d mobile game
+- 📫 How to reach me:
+      tg: @aguseneri
+      
 <!--
 **Aguseneri/Aguseneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
